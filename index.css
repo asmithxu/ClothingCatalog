@@ -1,0 +1,26 @@
+div.item {
+    display: inline-block
+}
+
+.item {
+    margin-right: 3%;
+    margin-left: 3%;
+}
+
+.items {
+    display:flex;
+    justify-content: center;
+}
+
+h1{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+.item {
+    padding: 10px;
+    border-radius: 12px;
+}
